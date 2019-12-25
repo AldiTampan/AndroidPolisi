@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grade">
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+    </string-array>
+</resources>
